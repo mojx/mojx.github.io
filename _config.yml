@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mojx.github.io
+title: mojx
+tagline: Error 808
+description: an unfortunate life of a portland teen 
+paginate: 5
